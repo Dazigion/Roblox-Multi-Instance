@@ -3,7 +3,7 @@ Open this program to run multiple Roblox instances (on different accounts) on th
 I do not care how you use this, do what you like, MIT license. If you give any credit, it should be to [MainDabRblx](https://github.com/MainDabRblx).
 
 
-**Download** [**Here**](https://github.com/MiningTcup/Roblox-Multi-Instance/releases/tag/v1.0)
+**Download** [**Here**](https://github.com/Dazigion/Roblox-Multi-Instance/releases)
 
 ***
 
@@ -22,7 +22,7 @@ How it works
 new Mutex(true, "ROBLOX_singletonMutex");
 ```
 Basically, this line of code takes control of the part of Roblox that says "No multi-instance for you!" and disables it.
-You can see the whole thing in [Program.cs](https://github.com/MiningTcup/Roblox-Multi-Instance/blob/main/Program.cs).
+You can see the whole thing in [Program.cs](https://github.com/Dazigion/Roblox-Multi-Instance/blob/main/Program.cs).
 
 ***
 
@@ -37,7 +37,7 @@ A. It's open source, you can look for yourself.
 Q. Why does my antivirus ding it?
 
 
-A. Becuase it uses a mutex, which could be malicious.
+A. why do antivirus ding random exe files? it warns you that it CAN do malicious things
 
 
 Q. Will I get banned from Roblox?
